@@ -4,8 +4,6 @@
 
 This project is an **interactive Coffee Shop Sales Dashboard** created entirely using **Microsoft Excel**. The goal of this project is to analyze sales performance and extract meaningful business insights using Excel’s powerful data analysis and visualization features.
 
-Although I have experience working with tools like **Power BI** and **Tableau**, I decided to take a different approach for this project and build everything in **Excel**. This helped me strengthen my understanding of Excel-based analytics and dashboards.
-
 ---
 
 ## 🎯 Objective of the Project
