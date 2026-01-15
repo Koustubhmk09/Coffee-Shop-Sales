@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Dashboard
+# ☕ Coffee Shop Sales 
 
 ## 📌 Project Overview
 
